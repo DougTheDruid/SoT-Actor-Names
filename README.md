@@ -8,3 +8,4 @@ It is not comprehensive, and it might not even be correct in every situation. I 
 You are free to use this list in your own development, or submit a pull request/issue if you find problems
 for a specific mapping.
 
+For community support, please contact me on Discord: DougTheDruid#2784
