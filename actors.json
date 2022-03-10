@@ -82,10 +82,12 @@
   "FoTD Key": "BP_FotD_StrongholdKey_ItemInfo_C",
   "Fort of Fortune Key": "BP_LegendaryFort_StrongholdKey_ItemInfo_C",
   "Captain's Key": "BP_MA_CabinDoorKey_ItemInfo_C",
+  "Sea Fort Key": "BP_SeaFort_Key_Vault_ItemInfo_C",
   "Stronghold Key": "BP_StrongholdKey_ItemInfo_C",
   "Ashen Key": "BP_AshenKey_ItemInfo_C",
   "Old Sailor's Key": "BP_OldKey_Goblet2_ItemInfo_C",
   "Trident of Dark Tides": "BP_SirenTrident_ItemInfo_C",
+  "Sea Fort Gold Pouch": "BP_SeaFortGoldPouches_ItemInfo_C",
 
   "Krakens Fall Gold Key": "BP_Totem_GoldShark_ItemInfo_C",
   "Krakens Fall Silver Key": "BP_Totem_SilverShark_ItemInfo_C",
