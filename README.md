@@ -1,5 +1,5 @@
 # SoT-Actor-Names
-A couple of different versions for actor name mapping of Sea of Thieves actors. Effectively my take at converting
+A couple of different versions for actor name mapping of SoT actors. Effectively my take at converting
 SoT Actor names into the "Friendly" version that we see in the game. 
 
 Two options available:
