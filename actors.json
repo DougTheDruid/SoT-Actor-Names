@@ -82,6 +82,7 @@
   "FoTD Key": "BP_FotD_StrongholdKey_ItemInfo_C",
   "Fort of Fortune Key": "BP_LegendaryFort_StrongholdKey_ItemInfo_C",
   "Captain's Key": "BP_MA_CabinDoorKey_ItemInfo_C",
+  "Shipwreck Graveyard Key" : "ShipWreckGraveyardKeyItemInfo_C",
   "Sea Fort Key": "BP_SeaFort_Key_Vault_ItemInfo_C",
   "Sea Fort Store Room Key": "BP_SeaFort_Key_StoreRoom_ItemInfo_C",
   "Stronghold Key": "BP_StrongholdKey_ItemInfo_C",
@@ -160,6 +161,13 @@
   "Box of Wondrous Secrets": "BP_Wondrous_ItemInfo_C",
   "Ashen Chest of Legends": "BP_TreasureChest_ItemInfo_PirateLegend_DVR_C",
   "Chest of Legends": "BP_TreasureChest_ItemInfo_PirateLegend_C",
+  "Offering of Legendary Goods": "BP_trs_box_leg_01_a_ItemInfo_C",
+  "Artifact of Legendary Hunger": "BP_trs_dark_shark_leg_01_a_ItemInfo_C",
+  "Athena's Relic": "BP_trs_impressive_leg_01_a_ItemInfo_C",
+  "Jar of Athena's Incense": "BP_trs_jar_leg_01_a_ItemInfo_C",
+  "Legendary Fortune Keeper": "BP_trs_jewellery_box_leg_01_a_ItemInfo_C",
+  "Stone of Ancients": "BP_PL_StoneOfAncients_ItemInfo_C",
+  "Skull of Athena's Blessing": "BP_trs_leg_crain__leg_01_a_ItemInfo_C",
   "Keg of Ancient Black Powder": "BP_MerchantCrate_PirateLegendBigGunpowderBarrel_ItemInfo_C",
   "Villainous Skull of Ancient Fortune": "BP_BountyRewardSkull_UncommonPirateLegend_C",
   "Skull of Ancient Fortune": "BP_BountyRewardSkull_PirateLegend_C",
@@ -312,5 +320,7 @@
   "Tome of Resurrection I": "BP_AshenTomeVol4_01_ItemInfo_C",
 
   "Generous Gift": "BP_HighValueGift_ItemInfo_C",
-  "Humble Gift": "BP_LowValueGift_ItemInfo_C"
+  "Humble Gift": "BP_LowValueGift_ItemInfo_C",
+  "Ancient's Brazier": "BP_PL_HauntedBrazier_C",
+  "Final Brazier": "BP_HauntedIsalnd_FinalBeacon_C"
 }
