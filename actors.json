@@ -203,10 +203,13 @@
   "Castaway's Chest (Vault)": "BP_TreasureChest_Vault_Common_ItemInfo_C",
   "Castaway's Chest": "BP_TreasureChest_ItemInfo_Common_C",
   "Coral Castaway Chest": "BP_SK_CoralChest_ItemInfo_Common_C",
-
+  
+  "Snake Basket": "BP_MerchantCrate_SnakeBasket_C",
   "Snake Basket": "BP_MerchantCrate_SnakeBasket_ItemInfo_C",
   "Chicken Coop": "BP_MerchantCrate_ChickenCrate_C",
-  "Pig Crate ": "BP_MerchantCrate_PigCrate_ItemInfo_C",
+  "Chicken Coop": "BP_MerchantCrate_ChickenCrate_ItemInfo_C",
+  "Pig Crate": "BP_MerchantCrate_PigCrate_C"
+  "Pig Crate": "BP_MerchantCrate_PigCrate_ItemInfo_C",
 
   "Stronghold Gunpowder Barrel": "BP_MerchantCrate_BigGunpowderBarrel_ItemInfo_C",
   "Gunpowder Barrel": "BP_MerchantCrate_GunpowderBarrel_ItemInfo_C",
