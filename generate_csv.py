@@ -5,7 +5,7 @@ run this script, the other two files will update automagically.
 @Author https://github.com/DougTheDruid
 @Source https://github.com/DougTheDruid/SoT-Actor-Names
 @Framework https://github.com/DougTheDruid/SoT-ESP-Framework
-For community support, please contact me on Discord: DougTheDruid#2784
+For community support, please contact me on Discord: dougthedruid
 """
 import json
 from csv import DictWriter
