@@ -28,7 +28,7 @@ Items that we currently do not have a known in-game name for yet:
 - Most Quest items (WIP)
 
 ## How Do I Get Help?
-For community support, please contact me on Discord: DougTheDruid#2784
+For community support, please contact me on Discord: dougthedruid
 
 ## Contributors
 Big shout-out to a couple of folks in the community who have helped me clean this list up quite a bit:
